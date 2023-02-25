@@ -4,9 +4,7 @@
 
 **Notice:** Due to copyright and security concerns this directory is not a complete representation of the app _Persona Pop_ found in the iOS App Store.
 
----
-
-##Welcome to Persona Pop!
+## Welcome to Persona Pop!
 
 <img src="Gifs/Settings.gif" width="32%" /> <img src="Gifs/Stages.gif" width="32%" /> <img src="Gifs/Answer.gif" width="32%" />
 
