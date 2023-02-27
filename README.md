@@ -16,10 +16,10 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 
 ## Agile Development Methodology
 
-[Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is developed and maintained by a single developer, [Reese Barnett](www.linkedin.com/in/reesebarnett2024). Barnett is responsible for the **UI/UX design**, **frontend code**, and **backend code**. This project uses an iterative development process called **Agile** that allows Barnett to evolve requirements and solutions over the lifetime of the application.
+[Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is developed and maintained by a single developer, [Reese Barnett](www.linkedin.com/in/reesebarnett2024). Barnett is responsible for the **UI/UX design**, **frontend code**, and **backend code** _backend code_ _**backend code**_. This project uses an iterative development process called **Agile** that allows Barnett to evolve requirements and solutions over the lifetime of the application.
 
 - Developer(s): [Reese Barnett](www.linkedin.com/in/reesebarnett2024) (Full-Stack)
-- Programming Technologie(s): XCode, SwiftUI, iOS SDK, Swift Package Manager, Git
+- Programming Technologie(s): Xcode, SwiftUI, iOS SDK, Swift Package Manager, Git
 - Design Technologies(s): Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
 - Framework(s): AVFAudio, Message UI, UserNotification, Accessibility
 - Language(s): Swift
@@ -27,6 +27,8 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 ---
 
 ## Design Process
+
+###### Tools: Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
 
 <img src ="Gifs/UI_UX.png">
 
@@ -42,4 +44,26 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 
 ## Frontend Development
 
+###### Tools: iOS SDK, Swift Package Manager, Xcode, Git
+
+###### Frameworks: SwiftUI, MessageUI, UserNotification
+
 <img src ="Gifs/Frontend.png">
+
+---
+
+## Backend Development
+
+###### Tools: Swift, iOS SDK, Xcode, Git
+
+###### Frameworks: AVFAudio, Accessibility, UIKit
+
+<img src ="Gifs/Backend.png">
+
+---
+
+## Data Management
+
+###### Tools: JSON, File Processing, Swift, iOS SDK, Xcode, Git
+
+<img src ="Gifs/DataManagement.png">
