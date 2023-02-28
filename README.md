@@ -93,3 +93,17 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 #### JSON Data Storage
 
 - Data in [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is stored on the device using _**JSON**_. When a user makes a change to the application's data, the corresponding model instance is _**encoded**_ as JSON. This JSON file overwrites the preexisting JSON file of the same name. When the user opens the app, the previously saved JSON is _**decoded**_ back into the model instance, allowing the user to resume where they left off.
+
+---
+
+## Unit Testing
+
+###### Tools: Swift, iOS SDK, Xcode, Git
+
+###### Frameworks: XCTest
+
+<img src ="Gifs/Testing.png">
+
+#### Unit Testing
+
+- Barnett implemented _**unit tests**_ with the _**XCTest**_ framework. This framework seamlessly integrates with _**Xcode**_'s testing workflow. Unit tests allow Barnett to test methods and functions across his project for the proper output. Using `XCTAssert...(...)` functions Barnett was able to test his back-end code. This ensured that [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) will be ready for production and a wide variety of inputs.
