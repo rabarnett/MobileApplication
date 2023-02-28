@@ -1,6 +1,6 @@
 &copy; Reese Barnett
 
-# Persona Pop (iOS Mobile Application)
+# Persona Pop (Native iOS Mobile Application)
 
 **Notice:** Due to copyright and security concerns this directory is not a complete representation of the app _Persona Pop_ found in the iOS App Store.
 
@@ -34,7 +34,7 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 
 #### Product Research & Definition
 
-- Barnett conducted _**user research**_ and _**market research**_. This allowed him to discover and better understand various design choices to implement into [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169). One way he conducted research is through deep analysis. He would spend time at length with similar apps, assigning each a grade based on well-defined criteria. Barnett developed a better understanding of what makes apps engaging and useful. Using the research he was able to successfully defined the functional requirements, target audience, and app specifications. This phase resulted in a _**high-level outline**_ of the application and its purpose.
+- Barnett conducted _**user research**_ and _**market research**_. This allowed him to discover and better understand various design choices to implement into [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169). One way he conducted research is through deep analysis. He would spend time at length with similar apps, assigning each a grade based on well-defined criteria. Barnett developed a better understanding of what makes apps engaging and useful. Using the research he was able to successfully define the functional requirements, target audience, and app specifications. This phase resulted in a _**high-level outline**_ of the application and its purpose.
 
 #### Design & Prototype
 
@@ -49,6 +49,14 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 ###### Frameworks: SwiftUI, MessageUI, UserNotification
 
 <img src ="Gifs/Frontend.png">
+
+#### Model-View-ViewModel Architecture
+
+- In accordance to the _**MVVM**_ architecture all views in [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) simply present data. Because views are what the end user interacts with, a view can contain functionality for visual behaviors, user interactions, and communicating with the _**ViewModel**_. Even with that functionality a view can **never** directly modify data.
+
+#### Views and Sub-Views
+
+- A view in [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is a complex composition of smaller components called sub-views. A sub-view is a custom view defined in a file separate from the view it is a component of. Often, views need to communicate with the _**ViewModel**_. This is accomplished by using the `@EnvironmentObject` property wrapper when declaring the _**ViewModel**_ in the view.
 
 ---
 
