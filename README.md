@@ -1,4 +1,4 @@
-&copy; [Reese Barnett](www.linkedin.com/in/reesebarnett2024)
+&copy; [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024)
 
 # [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) (Native iOS Mobile Application)
 
@@ -16,9 +16,9 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 
 ## Agile Development Methodology
 
-[Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is developed and maintained by a single developer, [Reese Barnett](www.linkedin.com/in/reesebarnett2024). Barnett is responsible for the _**UI/UX design**_, _**front-end code**_, and _**back-end code**_. This project uses an iterative development process called _**Agile**_ that allows Barnett to evolve requirements and solutions over the lifetime of the application.
+[Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is developed and maintained by a single developer, [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024). Barnett is responsible for the _**UI/UX design**_, _**front-end code**_, and _**back-end code**_. This project uses an iterative development process called _**Agile**_ that allows Barnett to evolve requirements and solutions over the lifetime of the application.
 
-- Developer(s): [Reese Barnett](www.linkedin.com/in/reesebarnett2024) (Full-Stack)
+- Developer(s): [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024) (Full-Stack)
 - Programming Technologie(s): Xcode, SwiftUI, iOS SDK, Swift Package Manager, Git
 - Design Technologies(s): Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
 - Framework(s): AVFAudio, Message UI, UserNotification, Accessibility
