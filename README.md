@@ -18,11 +18,11 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 
 [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169) is developed and maintained by a single developer, [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024). Barnett is responsible for the _**UI/UX design**_, _**front-end code**_, and _**back-end code**_. This project uses an iterative development process called _**Agile**_ that allows Barnett to evolve requirements and solutions over the lifetime of the application.
 
-- Developer(s): [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024) (Full-Stack)
+- Developer: [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024) (Full-Stack)
 - Programming Technologies: Xcode, SwiftUI, iOS SDK, Swift Package Manager, Git
-- Design Technologies(s): Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
-- Framework(s): Lottie, AVFAudio, Message UI, UserNotification, Accessibility
-- Language(s): Swift
+- Design Technologies: Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
+- Frameworks: Lottie, AVFAudio, Message UI, UserNotification, Accessibility
+- Language: Swift
 
 ---
 
