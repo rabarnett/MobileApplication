@@ -21,7 +21,7 @@ Welcome to [Persona Pop](https://apps.apple.com/us/app/persona-pop/id1638032169)
 - Developer(s): [Reese Barnett](https://www.linkedin.com/in/reesebarnett2024) (Full-Stack)
 - Programming Technologie(s): Xcode, SwiftUI, iOS SDK, Swift Package Manager, Git
 - Design Technologies(s): Adobe XD, Adobe Illustrator, Adobe Photoshop, Lottie, Icons8
-- Framework(s): AVFAudio, Message UI, UserNotification, Accessibility
+- Framework(s): Lottie, AVFAudio, Message UI, UserNotification, Accessibility
 - Language(s): Swift
 
 ---
